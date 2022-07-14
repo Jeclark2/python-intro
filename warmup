@@ -1,0 +1,14 @@
+def print_first_3(lst):
+    print("mk9-11 mains")
+    print(lst[o])
+    print(lst[1])
+    print(lst[2])
+
+lst=["reptile, johnny cage, scorpion. nightwolf "]
+
+my_animals = ["lion", "wolfs", "lizards", "dogs", "lepords"]
+my_animals.append("liger")
+my_animals-append("sharks")
+sorted_animals=sorted(my_animals)
+
+  
