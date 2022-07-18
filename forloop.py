@@ -56,3 +56,4 @@ def low_temp(temps):
     return l
 
 print(low_temp(may_june))
+

@@ -11,4 +11,19 @@ my_animals.append("liger")
 my_animals-append("sharks")
 sorted_animals=sorted(my_animals)
 
-  
+print(sorted_animals)
+
+my_animals.remove("lion")
+my_animals.remove("wolfs")
+my_animals.removre("lizards")
+
+print(len(sorted_animals))
+
+sorted_animals[1]=liger
+
+print(len(sorted_animals))
+print(sorted_animals)
+
+
+
+        
