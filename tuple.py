@@ -8,4 +8,3 @@ print(fruit_prices.values())
 
 print(fruit_prices.pop("orange"))
 print(fruit_prices)
-

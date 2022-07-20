@@ -43,4 +43,12 @@ def generate_mod():
 
 generate_mod()
 
- 
+
+def sum_tuple(tuple):
+    total = 0
+    for i in range(len(tuple)):
+        total = total + tuple[i]
+    return total
+
+    tup = (8, 7, 6, 5, 4)
+    print(sum_tuple(tup))
